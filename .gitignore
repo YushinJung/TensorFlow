@@ -2,3 +2,9 @@
 .ipynb_checkpoints
 
 data_out/
+ProjectA_DNN/
+ProjectB_CNN/
+ProjectC_RNN/
+tf_2.x/7-6_tensorboard/
+tf_2.x/checkpoints/
+tf_2.x/logs/
